@@ -1,0 +1,6 @@
+{
+  "name": "Development Express",
+  "port": 8001,
+  "jwtPrivateKey": "",
+  "db": "mongodb://localhost/vidly"
+}

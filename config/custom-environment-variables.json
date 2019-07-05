@@ -1,0 +1,4 @@
+{
+  "password": "APP_PASSWORD", // EXPORTS APP_PASSWORD=1234
+  "jwtPrivateKey": "vidly_jwtPrivateKey" // exports vidly_jwtPrivateKey=mysecretkey
+}
